@@ -1,4 +1,4 @@
-### 1일차 - 입출력과 사칙연산
+### [1일차 - 입출력과 사칙연산](https://github.com/king-dong-gun/CodingTes-BackJoon/tree/main/src/chap01)
 - Hello World!를 화면에 출력하는 문제
 - 두 수를 입력받고 합을 출력하는 문제
 - 두 수를 입력받고 뺄셈을 한 결과를 출력하는 문제
